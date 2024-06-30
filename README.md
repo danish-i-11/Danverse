@@ -12,3 +12,4 @@ it's an initiative by me that goes this way:
 3. From small apps like counters, converters, calculators etc. to big projects like code editors, advanced drawing canvases etc. everything will be found at one place i.e. in this 
 
       # "Danverse"
+4. It is going to be open source.
