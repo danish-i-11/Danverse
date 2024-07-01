@@ -13,3 +13,5 @@ it's an initiative by me that goes this way:
 
       # "Danverse"
 4. It is going to be open source.
+
+5. Anyone throughout the world can contribute there small or big projects  to this platform.
