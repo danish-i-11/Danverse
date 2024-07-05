@@ -17,3 +17,5 @@ it's an initiative by me that goes this way:
 5. Anyone throughout the world can contribute there small or big projects  to this platform.
 
 6. In the beginning, it'll be all free. But if the project booms, the contributors will get paid.
+
+7. This payment will be as per work .
